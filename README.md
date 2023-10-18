@@ -28,3 +28,24 @@ Replit is an online platform that allows users to write, run, and share code in 
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Replit Documentation](https://docs.replit.com/)
 
+---
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Lessons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Triva Project</td>
+      <td><a href="https://riverdalegithub.github.io/intro_python_23/project2/"> Code Project Here :) </a></td>
+    </tr>
+        <tr>
+      <td>Networks</td>
+      <td><a href="#">TBD</a></td>
+    </tr>
+   
+  </tbody>
+</table>
+
