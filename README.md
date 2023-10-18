@@ -1,6 +1,6 @@
 # CS Topics 23-24
 
-## 🐍 Python
+## 💖 Python 💖
 
 Python is a high-level, dynamically-typed, and interpreted programming language. It's known for its simplicity and readability, making it a favorite for beginners and experts alike.
 
@@ -39,7 +39,7 @@ Replit is an online platform that allows users to write, run, and share code in 
   <tbody>
     <tr>
       <td>Triva Project</td>
-      <td><a href="https://riverdalegithub.github.io/intro_python_23/project2/"> Code Project Here :) </a></td>
+      <td><a href="https://riverdalegithub.github.io/intro_python_23/project2/"> 💖 Start Project Here 💖 </a></td>
     </tr>
         <tr>
       <td>Networks</td>
