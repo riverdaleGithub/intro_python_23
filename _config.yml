@@ -1,0 +1,37 @@
+# Theme Configuration
+remote_theme: pages-themes/minimal@v0.2.0
+#theme: minimal-mistakes-jekyll
+
+# Site Title & Description
+title: 🐍 Python 🐍
+description: 👻🕯🎃🕸 Triva Game 👻🕯🎃🕸
+timezone: America/New_York
+lang: en-US
+
+# Color Customization (using the 'dark mode' as you previously preferred 'dark' skin)
+color_scheme: neon
+
+# Navigation Structure
+main_nav:
+  - title: "Home"
+    url: /
+
+# Author Information
+author:
+  name: Lila James
+  email: ljames@riverdale.edu
+
+# SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll-html-minify
+  - jekyll-remote-theme
+  
+# If you have code blocks, enable line numbers for better clarity.
+highlighter: rouge
+line_numbers: true
+
+# Google Analytics (if your theme supports it)
+#google_analytics: UA-XXXXXXX
