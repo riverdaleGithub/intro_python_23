@@ -120,7 +120,7 @@ print("""
 </details>
 
 Try to chain together .find(), .strip(), and .lower()
-
+</details>
 
 ## 💡 3: Research Guide 💡
 
@@ -212,7 +212,7 @@ The peer_review.doc should contain the reviews you gave & recieved. I'd suggest 
 </details>
 
 ---
-
+## Bee Who You Want to Bee
 <details>
 <summary>Academic Honesty Statement for Computer Science Department 📜</summary>
    
