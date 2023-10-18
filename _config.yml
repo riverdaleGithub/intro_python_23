@@ -8,10 +8,10 @@ description: 👻🎃Current Project is Triva Game 👻🎃
 timezone: America/New_York
 lang: en-US
 
-# Color Customization (using the 'dark mode' as you previously preferred 'dark' skin)
+# Color Customization 
 color_scheme: neon
 
-# Navigation Structure
+# Navigation Structure TODO: structure main tree
 main_nav:
   - title: "Home"
     url: /
@@ -20,8 +20,12 @@ main_nav:
 author:
   name: Lila James
   email: ljames@riverdale.edu
+  #twitter: your_twitter_handle
+  github: https://github.com/kyle1james
+  #linkedin: your_linkedin_username
 
-# SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
+
+# SEO & Feed (TODO: implement jekyll-seo-tag & jekyll-feed plugins)
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
