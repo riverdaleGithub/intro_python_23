@@ -17,15 +17,19 @@ else:
    print("wrong")
 </code></pre>
 
-We used the “or” statements to allow for as many possible correct solutions as possible. In the example above either New York City or NYC would work as correct answers. All other answers would be incorrect and fall into the else clause. 🤔
+We used the “or” & "and" statements to allow for as many possible correct solutions as possible. In the example above either New York City or NYC would work as correct answers. All other answers would be incorrect and fall into the else clause. 🤔
 
 
 <pre><code>
 city = input("What city is Riverdale located in?")
+name = input("What is your name?")
 if city == "New York City" or city == "NYC" or city == "Bronx":
    print("correct")
+elif city == "NYC" and name == "Lila":
+   print("You must be cool")
 else:
    print("wrong")
+
 </code></pre>
 
 </details>
@@ -76,7 +80,9 @@ python
 <details>
 <summary>Project 🚀</summary>
 
-In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create four trivia questions with some type of response for incorrect or correct answers. You will decide on the theme. 
+In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create four trivia questions with some type of response for incorrect or correct answers. You will decide on the theme.
+
+<br>
 
 When creating your Trivia game, you want to make it as accurate as possible for the users to play the game. Using “or” statements will help you add correct answers. Employing methods such as .lower(), .strip(), and .find() to help us and developers to anticipate users' responses by ignoring case, extra spaces on the ends of the string, or finding a specific term in the string. 🎲
 
@@ -103,7 +109,8 @@ print("""
 </code></pre>
 
 </details>
---- 
+
+Try to chain together .find(), .strip(), and .lower()
 
 ## Turning In Code
 
