@@ -4,6 +4,15 @@
 
 <img src="https://media0.giphy.com/media/KxzFpLmU5NxtSRgy4Z/200w.gif?cid=6c09b952c5vrqv0w31k9sonuqnyaw2znxjsxhizdtxkxjbcw&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
+## Goals
+This lesson has three main goals. Please turn in the following:
+
+1. Triva game (link)
+2. Peer review document (linked in 1)
+3. Ideation for final project (linked in 1)
+
+First, let's start with some review
+
 <details>
 <summary>Review</summary>
 
@@ -36,7 +45,7 @@ else:
 
 ---
 
-## Learn
+## 🔭 1: Learn 🔭
 
 Today, research the .lower(), .strip(), and .find() to help you generalize the text input. 🛠️
 
@@ -75,7 +84,7 @@ python
 
 ---
 
-## Build
+## ⛏️ 2: Build ⛏️
 
 <details>
 <summary>Project 🚀</summary>
@@ -112,13 +121,69 @@ print("""
 
 Try to chain together .find(), .strip(), and .lower()
 
-## Turning In Code
+
+## 💡 3: Research Guide 💡
+
+This guide will help you explore different areas of Python to inspire your final project. Today, you will pick ⚄ five ⚄ potential project ideas you would want to follow up on. This should include the main topic (all listed below ), and a description of the project.
 
 <details>
-<summary> Try a Stretch goals 🌟</summary>
-Can you add a score to the game? 1 point if the user get the correct answer. 0 or -1 points if the user does not get the correct answer. 📊
+<summary>1. Basics of Python</summary>
+
+- <a href="https://docs.python.org/3/">Python Official Documentation</a>
+- <a href="https://realpython.com/start-here/">Real Python - Basics</a>
+- <a href="https://www.nostarch.com/pythoncrashcourse2e">Python Crash Course</a>
+
+</details>
+
+<details>
+<summary>2. Game Development</summary>
+
+- <a href="https://www.pygame.org/wiki/tutorials">Pygame Tutorials</a>
+- <a href="http://inventwithpython.com/pygame/">Making Games with Python & Pygame (Book)</a>
+
+</details>
+
+<details>
+<summary>3. Web Development</summary>
+
+- <a href="https://flask.palletsprojects.com/">Flask: Micro Web Framework</a>
+- <a href="https://www.djangoproject.com/start/">Django: High-level Web Framework</a>
+
+</details>
+
+<details>
+<summary>4. Data Visualization</summary>
+
+- <a href="https://matplotlib.org/stable/tutorials/index.html">Matplotlib Tutorials</a>
+- <a href="https://seaborn.pydata.org/">Seaborn: Statistical Data Visualization</a>
+
+</details>
+
+<details>
+<summary>5. Robotics and Hardware</summary>
+
+- <a href="https://www.raspberrypi.org/documentation/usage/python/">Python with Raspberry Pi</a>
+- <a href="https://micropython.org/">MicroPython: Python for Microcontrollers</a>
+
+</details>
+
+<details>
+<summary>6. Music and Sound</summary>
+
+- <a href="http://pydub.com/">PyDub: Audio Manipulation with Python</a>
+- <a href="https://sonic-pi.net/">Sonic Pi: Code Music</a>
+
+</details>
+
+## 🐝 4 Turning In Work 🐝
+
+<details>
+<summary>  🌟 Try a Stretch goal(s) 🌟</summary>
    
-If you add a score to the game, buzz feed quiz it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print 
+💯 Can you add a score to the game? 1 point if the user get the correct answer. 
+ 0 or -1 points if the user does not get the correct answer. 📊
+   
+If you add a score to the game, 🐝 buzz feed quiz 🐝 it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print 
 “You are amazing! You got all 4 correct!” 🏆
 
 </details>
@@ -127,10 +192,11 @@ If you add a score to the game, buzz feed quiz it: depending on the score, print
 <details>
 <summary>How To Turn IN 🔄</summary>
    
-Once done with your code & peer-reviews, email the replit link with your links as a comment
+Once done with your code & peer-reviews, email the replit link which will have your other links inside of it as a comments
 
 <pre><code>
    # www.peer_review_doc.com
+   # www.my_project_ideas.com
    print("this is an example")
 </code></pre>
 
@@ -160,4 +226,3 @@ Signed: (type your name here acknowledging this statement) ✍️
 </pre>
 
 </details>
-
