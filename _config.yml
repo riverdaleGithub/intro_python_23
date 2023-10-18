@@ -4,7 +4,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 # Site Title & Description
 title: 🐍 Python 🐍
-description: 👻🕯🎃🕸 Triva Game 👻🕯🎃🕸
+description: 👻🕯🎃🕸 This weeks project is: <a href="https://riverdalegithub.github.io/intro_python_23/project2/"> Triva Game </a>👻🕯🎃🕸
 timezone: America/New_York
 lang: en-US
 
