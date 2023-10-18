@@ -186,11 +186,17 @@ First, gain and give 3 Peer reviews. In this class, peer-review is simple. Give 
 
 Peer Review:
 
+<br>
+
 🌟 Glow 🌟:
 Great job on keeping the function concise and to the point! The function name circle_area is descriptive, and it's clear what the function is intended to do. Using a clear variable name like radius also makes the code easy to understand.
 
+<br>
+
 🌿 Grow 🌿:
 Consider using the built-in math.pi instead of hardcoding the value of pi to 3.14. This would make the calculation more accurate and also show that you're utilizing Python's built-in libraries effectively.
+
+<br>
 
 🔬 Insight 🔬:
 Did you know that the formula you used is derived from the integral of r with respect to θ from 0 to 2π in polar coordinates? It's fascinating how math and programming often intersect in such ways!
@@ -208,7 +214,10 @@ Did you know that the formula you used is derived from the integral of r with re
 
 Main Topic: Raspberry Pi and Python
 
+<br>
+
 Description:
+<br>
 I will turn a Raspberry Pi into a live webcam using Python! This project will involve connecting a USB webcam or Pi Camera to a Raspberry Pi and setting up a Python script to stream video over the internet. I can further enhance this by adding features like motion detection, time-lapse photography, or even facial recognition using libraries like OpenCV!
 </details>
 
