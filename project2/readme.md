@@ -11,10 +11,10 @@ This lesson has three main goals. Please turn in the following:
 2. ↔️ 3 Peer review document: to & from  (you make doc) ↔️
 3. 🏗️ 5 descriptive ideas for final project (you make doc) 🏗️
 
-First, let's start with some review
+## 📖 0: Review 📖
 
 <details>
-<summary>Review</summary>
+<summary>🌪️ If/else 🌪️</summary>
 
 In our previous sessions, we have examined how we can use conditional statements to check for true or false. Here is an example:
 
