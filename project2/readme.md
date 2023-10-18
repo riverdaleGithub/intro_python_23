@@ -7,9 +7,9 @@
 ## Goals
 This lesson has three main goals. Please turn in the following:
 
-1. Triva game (link)
-2. Peer review document (linked in 1)
-3. Ideation for final project (linked in 1)
+1. Triva game (repl.it)
+2. Peer review document (you make)
+3. 5 descriptive ideas for final project (you make)
 
 First, let's start with some review
 
@@ -182,8 +182,11 @@ This guide will help you explore different areas of Python to inspire your final
    
 💯 Can you add a score to the game? 1 point if the user get the correct answer. 
  0 or -1 points if the user does not get the correct answer. 📊
-   
+ 
+<br>
+
 If you add a score to the game, 🐝 buzz feed quiz 🐝 it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print 
+<br>
 “You are amazing! You got all 4 correct!” 🏆
 
 </details>
@@ -197,7 +200,8 @@ Once done with your code & peer-reviews, email the replit link which will have y
 <pre><code>
    # www.peer_review_doc.com
    # www.my_project_ideas.com
-   print("this is an example")
+   print("this is my repl.it code")
+   print("I turn in the repl.it link")
 </code></pre>
 
 The peer_review.doc should contain the reviews you gave & recieved. I'd suggest using a table to organize this data.
