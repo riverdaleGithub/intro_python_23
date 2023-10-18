@@ -169,13 +169,55 @@ print("""
 Try to chain together .find(), .strip(), and .lower()
 </details>
 
-## 💡 3: Research Guide 💡
+## 💡 3: Peer Review 💡
 
-This guide will help you explore different areas of Python to inspire your final project. Today, you will pick ⚄ five ⚄ potential project ideas you would want to follow up on. This should include the main topic (all listed below ), and a description of the project.
+Peer-review is the crux of all science
+<br>
+First, gain and give 3 Peer reviews. In this class, peer-review is simple. Give a 🌟 glow 🌟, 🌿 grow 🌿, and an 🔬 insight 🔬 as a comment. Less than a paragraph is not helpful, more than a few paragraphs is scary.
 
 <details>
-   <summary>What can Python do?</summary>
+   <summary>
+   Code Review Example
+   </summary>
 
+<pre><code>
+   def circle_area(radius):
+    pi = 3.14
+    return pi * radius * radius
+</code></pre>
+
+Peer Review:
+
+🌟 Glow 🌟:
+Great job on keeping the function concise and to the point! The function name circle_area is descriptive, and it's clear what the function is intended to do. Using a clear variable name like radius also makes the code easy to understand.
+
+🌿 Grow 🌿:
+Consider using the built-in math.pi instead of hardcoding the value of pi to 3.14. This would make the calculation more accurate and also show that you're utilizing Python's built-in libraries effectively.
+
+🔬 Insight 🔬:
+Did you know that the formula you used is derived from the integral of r with respect to θ from 0 to 2π in polar coordinates? It's fascinating how math and programming often intersect in such ways!
+
+
+</details>
+
+
+## 🔬 4: Research Guide 🔬
+
+ This guide will help you explore different areas of Python to inspire your final project. Today, you will pick ⚄ five ⚄ potential project ideas    you would want to follow up on. This should include the main topic (all listed below ), and a description of the project.
+
+<details><summary>Example</summary>
+
+Main Topic: Raspberry Pi and Python
+
+Description:
+I will turn a Raspberry Pi into a live webcam using Python! This project will involve connecting a USB webcam or Pi Camera to a Raspberry Pi and setting up a Python script to stream video over the internet. I can further enhance this by adding features like motion detection, time-lapse photography, or even facial recognition using libraries like OpenCV!
+</details>
+
+<br>
+
+<details>
+   <summary>Main Topics</summary>
+  
 <details>
 <summary>1. Basics of Python</summary>
 
@@ -227,7 +269,7 @@ This guide will help you explore different areas of Python to inspire your final
 </details>
 <br>
 
-## 🐝 4 Turning In Work 🐝
+## 🐝 5 Turning In Work 🐝
 
 <details>
 <summary>  🌟 Try a Stretch goal(s) 🌟</summary>
