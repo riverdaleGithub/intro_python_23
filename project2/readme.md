@@ -48,7 +48,44 @@ else:
 ## 🔭 1: Learn 🔭
 
 First, create a new project called trivia_game. Next, research the .lower(), .strip(), and .find() to help you learn how to control the text input. 🛠️ Have an example of each in your game.
+<details>
+   
+   <summary>The Actual Lesson</summary>
+<details><summary>What is a Method vs. Argument?</summary>
 
+<details>
+   <summary> 🛠️ Method 🛠️ </summary>
+
+Imagine you have a toy robot 🤖. This robot can do different things like walk 🚶, dance 💃, and sing 🎤. Each of these actions is like a "method" for the robot. In Python, objects (like our robot) can have methods that allow them to do specific tasks.
+
+
+<pre><code>robot.dance()</code></pre>
+
+Here, `dance` is a method that makes the robot dance.
+
+</details>
+
+<details> 
+   <summary> 🎁 Argument 🎁 </summary>
+Now, let's say your robot can also paint 🎨, but it needs to know which color to use. You tell the robot the color by giving it a small box 🎁 with the paint inside. This box is like an "argument" you give to the method.
+
+<pre><code>robot.paint("blue")</code></pre>
+
+Here, `"blue"` is the argument you're giving to the `paint` method to tell the robot which color to use.
+</details>
+
+
+So, in simple terms:
+- A  🛠️ method 🛠️ is an action or task that something can do.
+- An 🎁 argument 🎁 is extra information you give to help the method do its job.
+
+I hope that helps! 🌟
+</details>
+<br>
+<details>
+<summary>
+   Learn New Methods
+</summary>
 <details>
     <summary>The lower() method</summary>
         returns a string where all characters are lower case. 📝
@@ -82,7 +119,11 @@ python
 </code></pre>
 </details>
 
----
+
+</details>
+</details>
+<br>
+
 
 ## ⛏️ 2: Build ⛏️
 
@@ -133,6 +174,9 @@ Try to chain together .find(), .strip(), and .lower()
 This guide will help you explore different areas of Python to inspire your final project. Today, you will pick ⚄ five ⚄ potential project ideas you would want to follow up on. This should include the main topic (all listed below ), and a description of the project.
 
 <details>
+   <summary>What can Python do?</summary>
+
+<details>
 <summary>1. Basics of Python</summary>
 
 - <a href="https://docs.python.org/3/">Python Official Documentation</a>
@@ -179,6 +223,7 @@ This guide will help you explore different areas of Python to inspire your final
 - <a href="http://pydub.com/">PyDub: Audio Manipulation with Python</a>
 - <a href="https://sonic-pi.net/">Sonic Pi: Code Music</a>
 
+</details>
 </details>
 <br>
 
