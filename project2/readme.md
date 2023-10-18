@@ -2,6 +2,8 @@
 ## Building A Trivia Game
 ### Q1 2023
 
+In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create 4️⃣ four trivia questions 4️⃣ with some type of response for 😵 incorrect 😵 or 🎉 correct answers 🎉. You will decide on the 🪩 theme 🪩
+
 <img src="https://media0.giphy.com/media/KxzFpLmU5NxtSRgy4Z/200w.gif?cid=6c09b952c5vrqv0w31k9sonuqnyaw2znxjsxhizdtxkxjbcw&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 ## 📖 0: Goals & Review 📖
@@ -9,11 +11,11 @@
 This lesson has three main goals. Please turn in the following:
 
 1. ⚒️ Triva game with 4 questions (repl.it) ⚒️
-2. ↔️ 3 Peer review document: to & from  (you make doc) ↔️
+2. ↔️ 3 Peer reviews: to & from  (you make doc) ↔️
 3. 🏗️ 5 descriptive ideas for final project (you make doc) 🏗️
 
 <details>
-<summary>🌪️ If/else Review🌪️</summary>
+<summary>🌪️ Coding Review 🌪️</summary>
 
 In our previous sessions, we have examined how we can use conditional statements to check for true or false. Here is an example:
 
@@ -46,11 +48,11 @@ else:
 
 ## 🔭 1: Learn 🔭
 
-First, create a new project called trivia_game. Next, research the .lower(), .strip(), and .find() to help you learn how to control the text input. 🛠️ Have an example of each in your game.
+First, create a new project called trivia_game. Next, research and try to use the .lower(), .strip(), and .find() to help you learn how to control text input. 🛠️ Have an example of each in your script. Make sure you know Methods and Arguments. This is a huge part of the course.
 <details>
    
    <summary>The Actual Lesson</summary>
-<details><summary>What is a Method vs. Argument?</summary>
+<details><summary> Methods & Arguments </summary>
 
 <details>
    <summary> 🛠️ Method 🛠️ </summary>
@@ -61,9 +63,8 @@ Imagine you have a toy robot 🤖. This robot can do different things like walk 
 <pre><code>robot.dance()</code></pre>
 
 Here, `dance` is a method that makes the robot dance.
-
 </details>
-
+<br>
 <details> 
    <summary> 🎁 Argument 🎁 </summary>
 Now, let's say your robot can also paint 🎨, but it needs to know which color to use. You tell the robot the color by giving it a small box 🎁 with the paint inside. This box is like an "argument" you give to the method.
@@ -72,19 +73,21 @@ Now, let's say your robot can also paint 🎨, but it needs to know which color 
 
 Here, `"blue"` is the argument you're giving to the `paint` method to tell the robot which color to use.
 </details>
-
-
+<br>
 So, in simple terms:
 - A  🛠️ method 🛠️ is an action or task that something can do.
 - An 🎁 argument 🎁 is extra information you give to help the method do its job.
 
 I hope that helps! 🌟
 </details>
+
 <br>
+
 <details>
 <summary>
    Learn New Methods
 </summary>
+   <br>
 <details>
     <summary>The lower() method</summary>
         returns a string where all characters are lower case. 📝
@@ -127,10 +130,6 @@ python
 
 <details>
 <summary>Project 🚀</summary>
-
-In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create 4️⃣ four trivia questions 4️⃣ with some type of response for 😵 incorrect 😵 or 🎉 correct answers 🎉. You will decide on the 🪩 theme 🪩
-
-<br>
 
 When creating your 🪩 Trivia game 🪩, you want to make it as accurate as possible for the users to play the game. Using “or” statements will help you add correct answers. 
 
