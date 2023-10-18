@@ -105,27 +105,52 @@ print("""
 </details>
 --- 
 
-## Shine
+## Turning In Code
 
 <details>
-<summary>Stretch goals 🌟</summary>
+<summary> Try a Stretch goals 🌟</summary>
 Can you add a score to the game? 1 point if the user get the correct answer. 0 or -1 points if the user does not get the correct answer. 📊
-If you add a score to the game, buzz feed quiz it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print “You are amazing! You got all 4 correct!” 🏆
+   
+If you add a score to the game, buzz feed quiz it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print 
+“You are amazing! You got all 4 correct!” 🏆
+
 </details>
 
 
 <details>
-<summary>Replit 🔄</summary>
-You can find the Python Trivia Project in replit. You have the entire session and homework to work on the project. Test your project with a classmate to verify that the trivia game works effectively and that you have anticipated the various answers from the user. Remember to copy the Academic Honesty statement into your work and submit your project. 📤
+<summary>How To Turn IN 🔄</summary>
+   
+Once done with your code & peer-reviews, email the replit link with your links as a comment
+
+<pre><code>
+   # www.peer_review_doc.com
+   print("this is an example")
+</code></pre>
+
+The peer_review.doc should contain the reviews you gave & recieved. I'd suggest using a table to organize this data.
+
+
+- You have the entire session and homework to work on the project. It is due for homework by next class.
+
+- Test your project with a classmate to verify that the trivia game works effectively and that you have anticipated the various answers from the user. 
+
+- Remember to copy the Academic Honesty statement into your work and submit your project. 📤
 
 </details>
+
+---
+
 <details>
 <summary>Academic Honesty Statement for Computer Science Department 📜</summary>
+   
 Please submit this assignment with your name and a copy of this text.
-I have neither given nor received improper aid in the preparation of this computer science assignment or in the completion of this code. Unless properly attributed to others, the work is exclusively my own.
+
+<pre><code>
+   I have neither given nor received improper aid in the preparation of this computer science assignment or in the completion of this code. Unless properly attributed to others, the work is exclusively my own.
 
 Signed: (type your name here acknowledging this statement) ✍️
+</code>
+</pre>
 
 </details>
 
-Note: The emojis are added for a fun touch, but ensure they align with the tone and context you want to convey.
