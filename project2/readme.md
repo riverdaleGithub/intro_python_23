@@ -4,17 +4,16 @@
 
 <img src="https://media0.giphy.com/media/KxzFpLmU5NxtSRgy4Z/200w.gif?cid=6c09b952c5vrqv0w31k9sonuqnyaw2znxjsxhizdtxkxjbcw&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-## Goals
+## 📖 0: Goals & Review 📖
+
 This lesson has three main goals. Please turn in the following:
 
 1. ⚒️ Triva game with 4 questions (repl.it) ⚒️
 2. ↔️ 3 Peer review document: to & from  (you make doc) ↔️
 3. 🏗️ 5 descriptive ideas for final project (you make doc) 🏗️
 
-## 📖 0: Review 📖
-
 <details>
-<summary>🌪️ If/else 🌪️</summary>
+<summary>🌪️ If/else Review🌪️</summary>
 
 In our previous sessions, we have examined how we can use conditional statements to check for true or false. Here is an example:
 
@@ -43,7 +42,7 @@ else:
 
 </details>
 
----
+<br>
 
 ## 🔭 1: Learn 🔭
 
@@ -119,11 +118,10 @@ python
 </code></pre>
 </details>
 
+</details>
+</details>
 
-</details>
-</details>
 <br>
-
 
 ## ⛏️ 2: Build ⛏️
 
@@ -139,9 +137,8 @@ When creating your 🪩 Trivia game 🪩, you want to make it as accurate as pos
 <br>
 
 Employing methods such as .lower(), .strip(), and .find() to help us and developers to anticipate users' responses by ignoring case, extra spaces on the ends of the string, or finding a specific term in the string. 🎲
-
+<br>
 We also added some cool tricks🎉
-
 <br>
 
 <details>
@@ -168,6 +165,7 @@ print("""
 
 Try to chain together .find(), .strip(), and .lower()
 </details>
+<br>
 
 ## 💡 3: Peer Review 💡
 
@@ -200,6 +198,7 @@ Did you know that the formula you used is derived from the integral of r with re
 
 </details>
 
+<br>
 
 ## 🔬 4: Research Guide 🔬
 
@@ -212,8 +211,6 @@ Main Topic: Raspberry Pi and Python
 Description:
 I will turn a Raspberry Pi into a live webcam using Python! This project will involve connecting a USB webcam or Pi Camera to a Raspberry Pi and setting up a Python script to stream video over the internet. I can further enhance this by adding features like motion detection, time-lapse photography, or even facial recognition using libraries like OpenCV!
 </details>
-
-<br>
 
 <details>
    <summary>Main Topics</summary>
@@ -274,13 +271,14 @@ I will turn a Raspberry Pi into a live webcam using Python! This project will in
 <details>
 <summary>  🌟 Try a Stretch goal(s) 🌟</summary>
    
-💯 Can you add a score to the game? 1 point if the user get the correct answer. 
- 0 or -1 points if the user does not get the correct answer. 📊
+💯 Can you add a score to the game? 1 point if the user get the correct answer. 0 or -1 points if the user does not get the correct answer. 📊
  
 <br>
 
 If you add a score to the game, 🐝 buzz feed quiz 🐝 it: depending on the score, print a specific phrase. For instance, if the user gets all four questions correct, print 
+
 <br>
+
 “You are amazing! You got all 4 correct!” 🏆
 
 </details>
@@ -309,8 +307,10 @@ The peer_review.doc should contain the reviews you gave & recieved. I'd suggest 
 
 </details>
 
----
+<br>
+
 ## Bee Who You Want to Bee
+
 <details>
 <summary>Academic Honesty Statement for Computer Science Department 📜</summary>
    
@@ -320,7 +320,5 @@ Please submit this assignment with your name and a copy of this text.
    I have neither given nor received improper aid in the preparation of this computer science assignment or in the completion of this code. Unless properly attributed to others, the work is exclusively my own.
 
 Signed: (type your name here acknowledging this statement) ✍️
-</code>
-</pre>
-
+</code></pre>
 </details>
