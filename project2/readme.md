@@ -47,7 +47,7 @@ else:
 
 ## 🔭 1: Learn 🔭
 
-Today, research the .lower(), .strip(), and .find() to help you generalize the text input. 🛠️
+First, create a new project called trivia_game. Next, research the .lower(), .strip(), and .find() to help you learn how to control the text input. 🛠️ Have an example of each in your game.
 
 <details>
     <summary>The lower() method</summary>
@@ -89,13 +89,19 @@ python
 <details>
 <summary>Project 🚀</summary>
 
-In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create four trivia questions with some type of response for incorrect or correct answers. You will decide on the theme.
+In this project, you will have an opportunity to create a trivia game in a topic of your choice. For this project, you must create 4️⃣ four trivia questions 4️⃣ with some type of response for 😵 incorrect 😵 or 🎉 correct answers 🎉. You will decide on the 🪩 theme 🪩
 
 <br>
 
-When creating your Trivia game, you want to make it as accurate as possible for the users to play the game. Using “or” statements will help you add correct answers. Employing methods such as .lower(), .strip(), and .find() to help us and developers to anticipate users' responses by ignoring case, extra spaces on the ends of the string, or finding a specific term in the string. 🎲
+When creating your 🪩 Trivia game 🪩, you want to make it as accurate as possible for the users to play the game. Using “or” statements will help you add correct answers. 
+
+<br>
+
+Employing methods such as .lower(), .strip(), and .find() to help us and developers to anticipate users' responses by ignoring case, extra spaces on the ends of the string, or finding a specific term in the string. 🎲
 
 We also added some cool tricks🎉
+
+<br>
 
 <details>
 <summary> Time </summary>
@@ -174,6 +180,7 @@ This guide will help you explore different areas of Python to inspire your final
 - <a href="https://sonic-pi.net/">Sonic Pi: Code Music</a>
 
 </details>
+<br>
 
 ## 🐝 4 Turning In Work 🐝
 
