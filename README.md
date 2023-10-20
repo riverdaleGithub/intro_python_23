@@ -39,7 +39,7 @@ Replit is an online platform that allows users to write, run, and share code in 
   <tbody>
     <tr>
       <td>Triva Project</td>
-      <td><a href="https://riverdalegithub.github.io/intro_python_23/project2/"> Finished 10/20 💖 </a></td>
+      <td><a href="https://riverdalegithub.github.io/intro_python_23/project2/"> Finished 10/20 </a></td>
     </tr>
         <tr>
       <td>Fermi Paradox</td>
