@@ -4,12 +4,12 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 # Site Title & Description
 title: 🐍 Python 🐍
-description: 👻🎃Current Project is Triva Game 👻🎃
+description: 👻🎃Current Project is Fermi 👻🎃
 timezone: America/New_York
 lang: en-US
 
 # Color Customization 
-color_scheme: neon
+color_scheme: dark
 
 # Navigation Structure TODO: structure main tree
 main_nav:
