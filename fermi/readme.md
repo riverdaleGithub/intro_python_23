@@ -4,11 +4,17 @@
 
 This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe.
 
-<img src="webb.webp">
+<img src="webb.gif">
 
 ## ⭐ Fermi Paradox ⭐
 
 The Fermi Paradox addresses the question: why do we seem alone in the universe? Scientists believe there are billions of stars in our galaxy, many of which could harbor Earth-like planets. With the vast number of possibilities, it seems probable that other intelligent life would exist. Yet, the mystery remains: if there are numerous potential alien civilizations, why haven't we detected any signs of them? Why is the universe so silent?
+
+<details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
+
+<img src="heilosphere">
+
+</details>
 
 The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations.
 
@@ -74,3 +80,6 @@ def make_sandwich(bread, filling):
 make_sandwich("whole grain", "turkey")  # This will print "Here's a turkey sandwich with whole grain bread!"
 </code></pre>
 </details>
+
+
+<img src="webb.webp">
