@@ -1,20 +1,32 @@
 # 👾 Are We Alone? 👾
 
-<img src='space.jpeg' width="400" height="400">
+The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope</a>. Each radiant point you see isn't just a star – it's an entire <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars">galaxy</a>, each cradling billions of stars within its embrace. When you gaze upon these points of light, you're not merely observing space but traveling through ⏳ time ⏳, witnessing remnants from the very dawn of our universe. On the right, marvel at the animated brilliance of the James Webb Space Telescope itself, the groundbreaking telescope that is 72 feet by 39.4 feet! How'd they get that into space!?
 
-This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe.
-
-<img src="webb.gif">
+<div style="display: flex;">
+    <img src='space.jpeg' style="width: 50%;">
+    <img src='webb.gif' alt="Second Image" style="width: 50%; height=">
+</div>
 
 ## ⭐ Fermi Paradox ⭐
 
 The Fermi Paradox addresses the question: why do we seem alone in the universe? Scientists believe there are billions of stars in our galaxy, many of which could harbor Earth-like planets. With the vast number of possibilities, it seems probable that other intelligent life would exist. Yet, the mystery remains: if there are numerous potential alien civilizations, why haven't we detected any signs of them? Why is the universe so silent?
 
+
+The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. 
+
+
+<details>
+<summary>Code 1: Turn the Drake Equation Into A function</summary>
+<img src="equation.png">
+</details>
+
+<br>
 <details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
 
-<img src="heilosphere">
+<img src="heilosphere.png">
 
 </details>
+<br>
 
 The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations.
 
