@@ -20,10 +20,10 @@ The Fermi Paradox addresses the question: why do we seem alone in the universe? 
 </details>
 <br>
 
-The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. 
+
 
 ## Lab 
-You will first turn the Drake equation into a function, and then you will calculate how many planets should have life on them currently!
+The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. You will first turn the Drake equation into a function, and then you will calculate how many planets should have life on them currently, and describe why we haven't found life outside our solar system.
 
 
 The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations.
