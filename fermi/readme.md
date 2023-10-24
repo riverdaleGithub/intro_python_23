@@ -12,19 +12,6 @@ The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space 
 The Fermi Paradox addresses the question: why do we seem alone in the universe? Scientists believe there are billions of stars in our galaxy, many of which could harbor Earth-like planets. With the vast number of possibilities, it seems probable that other intelligent life would exist. Yet, the mystery remains: if there are numerous potential alien civilizations, why haven't we detected any signs of them? Why is the universe so silent?
 
 
-The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. 
-
-
-<details>
-<summary>Turn the Drake Equation Into A Function</summary>
-<img src="equation.png">
-</details>
-
-<details>
-    <summary>Run the Drake Equation with these Parameters</summary>
-    <img src="drake.png">
-</details>
-
 <br>
 <details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
 
@@ -32,6 +19,12 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 
 </details>
 <br>
+
+The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. 
+
+## Lab 
+You will first turn the Drake equation into a function, and then you will calculate how many planets should have life on them currently!
+
 
 The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations.
 
@@ -42,6 +35,10 @@ Consider a model for the Fermi Paradox to simulate varying scenarios:
 <img src="equation.png">
 </details>
 
+<details>
+    <summary>Run the Drake Equation with these Parameters</summary>
+    <img src="drake.png">
+</details>
 ## 👩‍🍳 Functions & Arguments 🍎🥦
 
 Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩‍🍳 and arguments as the ingredients. You provide the ingredients to the chef, and she whips up a delightful dish! 🍲
