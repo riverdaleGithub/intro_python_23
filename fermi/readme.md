@@ -16,8 +16,13 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 
 
 <details>
-<summary>Code 1: Turn the Drake Equation Into A function</summary>
+<summary>Turn the Drake Equation Into A Function</summary>
 <img src="equation.png">
+</details>
+
+<details>
+    <summary>Run the Drake Equation with these Parameters</summary>
+    <img src="drake.png">
 </details>
 
 <br>
