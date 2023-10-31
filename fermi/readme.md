@@ -39,7 +39,10 @@ Consider a model for the Fermi Paradox to simulate varying scenarios:
     <summary>Run the Drake Equation with these Parameters</summary>
     <img src="drake.png">
 </details>
+
 ## 👩‍🍳 Functions & Arguments 🍎🥦
+
+[![ufo](ufo.jpeg)](https://www.youtube.com/watch?v=B4607ie710I)
 
 Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩‍🍳 and arguments as the ingredients. You provide the ingredients to the chef, and she whips up a delightful dish! 🍲
 
