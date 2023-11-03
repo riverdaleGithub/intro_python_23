@@ -43,7 +43,12 @@ Replit is an online platform that allows users to write, run, and share code in 
     </tr>
         <tr>
       <td>Fermi Paradox</td>
-      <td><a href="https://riverdalegithub.github.io/intro_python_23/fermi/">💖 Current Project 💖</a></td>
+      <td><a href="https://riverdalegithub.github.io/intro_python_23/fermi/"> Wow, Aliens</a></td>
+    </tr>
+      </tr>
+        <tr>
+      <td>Potions</td>
+      <td><a href="https://riverdalegithub.github.io/intro_python_23/pyFunc/">  💖 Mixing Potions  💖</a></td>
     </tr>
    
   </tbody>
